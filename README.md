@@ -1,6 +1,6 @@
 ## AB Testing
-In this project, I demonstrate a few approaches to testing the differences in results, based on different treatments.
-This is done on an example of data collected by Yandex. The data represents user activity on "control" and "experimental" versions of the page.
+In this project, I demonstrate a few approaches to testing the differences in results achieved via different treatments.
+This is done on an example of data collected by Yandex (Russia's biggest search engine). The data represents user activity on "control" and "experimental" versions of the page.
 
 Methods used:
 - Bootstrapping
